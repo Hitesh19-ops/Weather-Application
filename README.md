@@ -1,6 +1,6 @@
 # 🌦️ Weather App  
 
-A simple weather forecasting web application built with **React.js** that shows real-time weather updates of any city using the **OpenWeatherMap API**.  
+A weather forecasting web application built with **React.js** that shows real-time weather updates of any city using the **OpenWeatherMap API**.  
 
 ---
 
