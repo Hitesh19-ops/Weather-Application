@@ -31,6 +31,7 @@ function SearchBox({updateInfo}){
 
     function handleChange(event){
         setCity(event.target.value);
+        setError(false)
     };
      
      async function handleSubmit(event){
